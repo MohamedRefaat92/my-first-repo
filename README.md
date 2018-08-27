@@ -1,30 +1,24 @@
-# This is a large heading
+# Mohamed Refaat
 
-## This is a smaller heading
+### Geography
+I live in the city of Cairo, in Egypt.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+Here are two of my favorite books: 
 
-1. This is
-2. an ordered
-3. list
+- *Begining of The Infinity*
+- *How to Make a Mind*
 
-Here is `some code` in the middle of a sentence.
+### Education
 
-```
-This is
-a block
-of code
-```
+I look forward to study in one of the following Universities:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. EPFL
+2. KAUST
+3. ETH Zurich
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
+The best way to get in touch with me is on [facebook](https://www.facebook.com/mohamedrefaattt)
+Phone number 01123455204
