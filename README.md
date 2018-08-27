@@ -1,24 +1,21 @@
 # Mohamed Refaat
 
 ### Geography
-I live in the city of Cairo, in Egypt.
+I live in the city of salalah, in the south of Sultante of Oman
 
-### Reading
+### Music
 
-Here are two of my favorite books: 
+Here are two of my favorite singers: 
 
-- *Begining of The Infinity*
-- *How to Make a Mind*
+- Outlandish
+- Linkin park
 
-### Education
+### Travel
 
-I look forward to study in one of the following Universities:
+I look forward to spend the summer in one of the following locations:
 
-1. EPFL
-2. KAUST
-3. ETH Zurich
+1. Cairo
 
 ### Contact
 
-The best way to get in touch with me is on [facebook](https://www.facebook.com/mohamedrefaattt)
-Phone number 01123455204
+The best way to get in touch with me on phone 95090159
