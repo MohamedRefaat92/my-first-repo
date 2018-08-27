@@ -7,16 +7,15 @@ I live in the city of salalah, in the south of Sultante of Oman
 
 Here are two of my favorite singers: 
 
-- Mehad
-- Mohamed Abdu
+- Outlandish
+- Linkin park
 
 ### Travel
 
 I look forward to spend the summer in one of the following locations:
 
-1. Bangkok
-2. Dubai
+1. Cairo
 
 ### Contact
 
-The best way to get in touch with me on BBM
+The best way to get in touch with me on phone 95090159
